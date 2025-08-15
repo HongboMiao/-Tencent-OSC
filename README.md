@@ -1,1 +1,1 @@
-# -Tencent-OSC
+# Tencent-OSC
